@@ -1,0 +1,20 @@
+         AUTHENTICATION FRONTEND DEMO
+This is a frontend demo for an authentication system project. It includes multi-page navigation with Home, Login, Register, and Dashboard pages.
+           FEATURES
+- Home Page: Landing page with navigation links
+- Login Page: Demo login from (frontend only)
+- Register Page: Demo registration form (frontend only)
+- Dashboard Page: Demo dashboard page
+- Navigation: Easy link-based navigation between pages
+- Styling: Basic CSS applied for clean layout
+         NOTES
+- This is frontend only, the backend runs locally with Node.js and MongoDB.
+- This project demonstrate multi-page site structure, navigate, and CSS styling.
+         LIVE DEMO
+- check it out here:
+  [https://iphyboi.github.io/auth-portfolio-demo/(https://iphyboi.github.io/auth-portfolio-demo/)
+         HOW T USE LOCALLY
+  clone the repository: ```bash
+  git clone https://github.com/iphyboi/auth-portfolio-demo.git  
+
+             
